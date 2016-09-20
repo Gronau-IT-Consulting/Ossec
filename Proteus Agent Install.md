@@ -17,7 +17,7 @@ During the install, add the IP address of the Capricorn server.
 
 ![ossec_agent_1](https://cloud.githubusercontent.com/assets/16313160/18657954/39abbeee-7f42-11e6-85d6-14a696c0de2f.png)
 
-Follow the [SIEMonster Build Guide](https://siemonster.com/wp-content/uploads/2016/08/Kustodian-SIEMonster-Guide-V2.5.pdf) Ch. 7.3 to install a new agent on Capricorn.
+Follow the [SIEMonster Build Guide](https://siemonster.com/wp-content/uploads/2016/08/Kustodian-SIEMonster-Guide-V2.5.pdf) Ch. 7.3 to register a new agent on Capricorn.
 
 Run the following command on Proteus, choose 'I' and paste the key assigned for Proteus.
 
